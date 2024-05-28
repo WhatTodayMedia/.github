@@ -1,5 +1,5 @@
 ## Introduce
-WTM 은 What Today Media 의 약자로 오늘 볼 영화/드라마를 추천해주는 플랫폼입니다.
+WTM 은 What Today Media 의 약자로 오늘 볼 미디어(영화/드라마/예능)를 추천해주는 플랫폼입니다.
 
 ### Stack
 next.js, typescript, axios, wtm api, emotion.js, recoil, 
