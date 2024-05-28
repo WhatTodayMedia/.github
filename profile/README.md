@@ -7,5 +7,5 @@ next.js, typescript, axios, wtm api, emotion.js, recoil,
 
 <img width='100%' src='https://github.com/WhatTodayMedia/.github/assets/82823150/2a19729a-f04d-4dda-9292-3ab05ad4ff08'/>
 
-### contributor
+### Contributor
 유환빈
